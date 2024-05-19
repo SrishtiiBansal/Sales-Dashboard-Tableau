@@ -53,3 +53,6 @@ Use the filters to refine the view based on regions, time periods, shipment stat
 Gain insights into sales performance, trends, and opportunities.
 
 Export or share the dashboard as needed for reporting or presentation purposes.
+
+**Dashboard Link** 
+https://public.tableau.com/views/SalesDashboard_17103281082070/SALESDASHBOARD?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
